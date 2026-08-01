@@ -6,7 +6,7 @@
 export const site = {
   name: 'Gina Coburn, Ph.D.',
   // Shown in the header and browser tab.
-  shortName: 'Gina Coburn',
+  shortName: 'Gina Coburn, Ph.D.',
   // The role you're primarily targeting (used in metadata + hero). TODO: adjust emphasis.
   role: 'Product Designer · AI-Assisted UX Strategist · Accessibility-Focused Builder',
   location: 'Ventura County, CA',
