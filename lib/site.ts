@@ -21,7 +21,7 @@ export const site = {
   // Contact — TODO: confirm/replace.
   email: 'ginacoburn2@gmail.com',
   phone: '805-626-2077', // optional; remove if you'd rather not list it
-  linkedin: 'https://www.linkedin.com/in/YOUR-LINKEDIN', // TODO: replace with your real LinkedIn URL
+  linkedin: 'https://www.linkedin.com/in/ginacoburnphd',
   // Path to your résumé PDF placed in /public/resume/. TODO: drop your PDF here.
   resumePath: '/resume/gina-coburn-resume.pdf',
 
