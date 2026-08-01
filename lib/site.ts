@@ -25,8 +25,8 @@ export const site = {
   // Path to your résumé PDF placed in /public/resume/. TODO: drop your PDF here.
   resumePath: '/resume/gina-coburn-resume.pdf',
 
-  // Deployment URL (used for absolute SEO/OG links). TODO: set to your Vercel/custom domain.
-  url: 'https://your-domain.com',
+  // Deployment URL (used for absolute SEO/OG links).
+  url: 'https://www.ginabeanbrand.com',
 
   // Navigation (order matters).
   nav: [

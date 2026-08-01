@@ -1,8 +1,0 @@
-Place your résumé here as:
-
-    gina-coburn-resume.pdf
-
-(that exact filename matches `resumePath` in /lib/site.ts).
-
-If you name it differently, update `resumePath` in lib/site.ts to match.
-You can delete this .txt file once your PDF is in place.
