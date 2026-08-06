@@ -8,7 +8,7 @@ export const site = {
   // Shown in the header and browser tab.
   shortName: 'Gina Coburn, Ph.D.',
   // The role you're primarily targeting (used in metadata + hero). TODO: adjust emphasis.
-  role: 'Product Designer · AI-Assisted UX Strategist · Accessibility-Focused Builder',
+  role: 'Product Designer · AI & Agentic Experiences · Human-Centered AI · Accessibility',
   location: 'Ventura County, CA',
 
   // Positioning — the one-liner a hiring manager should remember.
